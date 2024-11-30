@@ -1,0 +1,11 @@
+{
+    "name": "BuyCoins",
+    "alias": "buycoins",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\BuyCoins\\Providers\\BuyCoinsServiceProvider"
+    ],
+    "files": []
+}

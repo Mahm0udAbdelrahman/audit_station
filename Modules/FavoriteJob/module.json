@@ -1,0 +1,11 @@
+{
+    "name": "FavoriteJob",
+    "alias": "favoritejob",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\FavoriteJob\\Providers\\FavoriteJobServiceProvider"
+    ],
+    "files": []
+}

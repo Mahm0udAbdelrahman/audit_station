@@ -1,0 +1,11 @@
+{
+    "name": "PaperCertificate",
+    "alias": "papercertificate",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\PaperCertificate\\Providers\\PaperCertificateServiceProvider"
+    ],
+    "files": []
+}

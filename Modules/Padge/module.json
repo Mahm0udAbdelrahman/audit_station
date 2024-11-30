@@ -1,0 +1,11 @@
+{
+    "name": "Padge",
+    "alias": "padge",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Padge\\Providers\\PadgeServiceProvider"
+    ],
+    "files": []
+}

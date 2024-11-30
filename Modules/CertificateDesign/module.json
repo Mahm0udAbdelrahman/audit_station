@@ -1,0 +1,11 @@
+{
+    "name": "CertificateDesign",
+    "alias": "certificatedesign",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\CertificateDesign\\Providers\\CertificateDesignServiceProvider"
+    ],
+    "files": []
+}

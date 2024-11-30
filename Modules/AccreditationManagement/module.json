@@ -1,0 +1,11 @@
+{
+    "name": "AccreditationManagement",
+    "alias": "accreditationmanagement",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\AccreditationManagement\\Providers\\AccreditationManagementServiceProvider"
+    ],
+    "files": []
+}

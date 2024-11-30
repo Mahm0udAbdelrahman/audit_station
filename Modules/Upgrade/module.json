@@ -1,0 +1,11 @@
+{
+    "name": "Upgrade",
+    "alias": "upgrade",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Upgrade\\Providers\\UpgradeServiceProvider"
+    ],
+    "files": []
+}

@@ -1,0 +1,11 @@
+{
+    "name": "SpecializationQuestion",
+    "alias": "specializationquestion",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\SpecializationQuestion\\Providers\\SpecializationQuestionServiceProvider"
+    ],
+    "files": []
+}

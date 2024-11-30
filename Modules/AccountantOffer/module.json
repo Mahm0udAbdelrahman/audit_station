@@ -1,0 +1,11 @@
+{
+    "name": "AccountantOffer",
+    "alias": "accountantoffer",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\AccountantOffer\\Providers\\AccountantOfferServiceProvider"
+    ],
+    "files": []
+}

@@ -1,0 +1,11 @@
+{
+    "name": "BecomeCompany",
+    "alias": "becomecompany",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\BecomeCompany\\Providers\\BecomeCompanyServiceProvider"
+    ],
+    "files": []
+}

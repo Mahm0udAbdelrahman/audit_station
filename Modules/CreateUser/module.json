@@ -1,0 +1,11 @@
+{
+    "name": "CreateUser",
+    "alias": "createuser",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\CreateUser\\Providers\\CreateUserServiceProvider"
+    ],
+    "files": []
+}

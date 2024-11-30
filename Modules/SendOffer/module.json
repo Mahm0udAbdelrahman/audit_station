@@ -1,0 +1,11 @@
+{
+    "name": "SendOffer",
+    "alias": "sendoffer",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\SendOffer\\Providers\\SendOfferServiceProvider"
+    ],
+    "files": []
+}

@@ -1,0 +1,11 @@
+{
+    "name": "StepsToBeUnique",
+    "alias": "stepstobeunique",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\StepsToBeUnique\\Providers\\StepsToBeUniqueServiceProvider"
+    ],
+    "files": []
+}

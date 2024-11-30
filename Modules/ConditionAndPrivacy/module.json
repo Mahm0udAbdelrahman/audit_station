@@ -1,0 +1,11 @@
+{
+    "name": "ConditionAndPrivacy",
+    "alias": "conditionandprivacy",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\ConditionAndPrivacy\\Providers\\ConditionAndPrivacyServiceProvider"
+    ],
+    "files": []
+}
